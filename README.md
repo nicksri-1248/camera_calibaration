@@ -8,6 +8,7 @@ Camera calibration is the process of determining a camera’s intrinsic and extr
 - To compute Extrinsic Parameters as rotation and translation vectors were for each image.
 
 ## Installation
+Python version must be 3.1x
 Step-by-step instructions on how to install and set up the project.
 
 ```sh
